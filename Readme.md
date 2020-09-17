@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Andrey Lepriconov](https://up.htmlacademy.ru/javascript/21/user/1592841).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Полуэктов] (https://htmlacademy.ru/profile/id1283179).
 
 ---
 
